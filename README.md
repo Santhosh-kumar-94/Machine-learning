@@ -1,2 +1,2 @@
 # Machine-learning
-Set of code files written by me
+Set of codes
